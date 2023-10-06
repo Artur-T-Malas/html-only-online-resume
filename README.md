@@ -1,5 +1,5 @@
-#HTML Only Portfolio Website
-##This is a repository containing the source code and resources for my first portfolio website.
+# HTML Only Portfolio Website
+## This is a repository containing the source code and resources for my first portfolio website.
 ---
 This retro looking website was made using **only** HTML.
 ---
