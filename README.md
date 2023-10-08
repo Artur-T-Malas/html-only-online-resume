@@ -5,7 +5,7 @@
 
 ---
 
-["Page can be visitted here"](https://artur-t-malas.github.io/html-only-online-resume/)
+Page can be visitted  [here](https://artur-t-malas.github.io/html-only-online-resume/)
 
 ---
 
