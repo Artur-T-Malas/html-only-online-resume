@@ -3,6 +3,12 @@
 
 ---
 
+---
+
+["Page can be visitted here"](https://artur-t-malas.github.io/html-only-online-resume/)
+
+---
+
 This retro looking website was made using **only** HTML.
 
 ---
